@@ -1,0 +1,111 @@
+.div{
+    width: 17%;
+    height: 90vh;
+    border:3px solid black;
+    margin: 0 auto;min-width: 17%;
+    max-width: 25%;
+    min-height: 90vh;
+    max-height: 120vh;
+    
+}
+
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    text-align: center;
+    margin: 0;
+    font-family: sans-serif;
+}
+hr{
+    width: 90%;
+}
+article{
+    margin-left: 5px;
+    margin-top: 10px;
+    
+}
+.p1{
+    padding-left: 5px;
+}
+.p2{
+    padding-left: 80px;
+}
+.hr-1{
+    width: 90%;
+    height:8px;
+    background-color: black
+}
+.hr-2{
+    height: 5px;
+    width: 90%;
+    background-color: black;
+}
+.calori{
+    display: inline-block;
+    display: 50%;
+}
+.amount{
+display: inline-block;
+padding-left: 70px;
+ 
+}
+.percentage{
+    padding-left: 140px;
+}
+ .Fat-2{
+    padding-left: 130px;
+    font-family: sans-serif
+ }
+ .Saturated{
+    padding-left: 10px;
+    padding-right: 105px;
+ }
+ .Trans{
+    padding-left: 20px;
+margin-top: 0;
+ }
+ .cholestrol{
+    padding-left:5px;
+    padding-right: 112px;
+ }
+ 
+ .sodium{
+    padding-left:10px;
+    padding-right: 112px;
+ }
+ .carbohydrate{
+    padding-left: 5px;
+    padding-right: 50px;
+ }
+ .Dietary{
+    padding-left: 10px;
+ }
+ .sugar{
+    padding-left: 10px;
+ }
+ .include{
+    padding-left:40px;
+    padding-right: 10px;
+ }
+ .hr-bottom{
+    width: 90%;
+    height: 5px;
+    background-color: black;
+ }
+ .narration{
+    width: 90%;
+    font-size: 11px;
+    margin-left: 20px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
